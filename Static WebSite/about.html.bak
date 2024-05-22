@@ -1,0 +1,25 @@
+<html>
+	<head>	
+		<title> First Website | Greet Labs </title>
+	</head>
+	<body>
+		<img src="./logo.png"/>
+		<a href="./index.html">Home</a>
+		<a href="./about.html">About</a>
+		<a href="./service.html">Services</a>
+		<a href="./employee.html">Employees</a>
+		<a href="./contact.html">Contact</a>
+		<a href="./login.html">Login</a>
+
+		<hr/>
+		<div>
+			<h2>About Page</h2>
+		</div>
+		<div>
+		<h1>About Bangalore</h1>
+		<p>
+			
+		</p>
+		</div>
+	</body>
+</html>
